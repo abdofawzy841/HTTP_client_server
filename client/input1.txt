@@ -1,0 +1,7 @@
+post test.txt 
+post test2.txt 
+get ser1.txt 
+post test3.txt 
+get ser2.txt 
+get ser3.txt 
+get photo.imag 
